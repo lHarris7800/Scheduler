@@ -1,0 +1,16 @@
+To compile and run:
+
+Use makefile:
+#make
+
+Pass the schedular type as an argument:
+#./main FCFS
+#./main SJF
+#./main RR
+
+The program will output data in format
+<process id>, <waiting time>, <turnaround time>
+
+This is a csv friendly format so the output may be routed into a csv file for data analysis.
+For Example:
+#./main FCFS >> outputFCFS.csv
