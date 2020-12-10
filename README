@@ -1,3 +1,6 @@
+#Schedular
+Developted for Operating System Principles at RMIT. Program simulates an os' process/task schedular.
+
 To compile and run:
 
 Use makefile:
