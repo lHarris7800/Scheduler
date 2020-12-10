@@ -6,7 +6,7 @@ To compile and run:
 Use makefile:
 #make
 
-Pass the schedular type as an argument:
+Pass the schedular type as an argument (First Come First Serve/Shortest Job First/Round Robin):
 #./main FCFS
 #./main SJF
 #./main RR
